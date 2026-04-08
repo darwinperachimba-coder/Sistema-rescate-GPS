@@ -45,7 +45,7 @@ Darwin Edison Perachimba
 
 ## 📎 Enlace al repositorio
 
-(Pega aquí tu link de GitHub)
+https://github.com/darwinperachimba-coder/Sistema-rescate-GPS
 
 ## 📚 Uso académico
 
